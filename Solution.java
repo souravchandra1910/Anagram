@@ -1,3 +1,9 @@
+// 1. You are given two strings s1 and s2.
+// 2. You have to find the count of s2's anagrams that are present in s1.
+// 3. Also, you have to print the start indices of such anagrams in s1.
+
+// Note -> Both s1 ad s2 consist of lowercase English letters only.
+
 import java.util.*;
 public class Solution {
     public static boolean check(HashMap<Character,Integer>hm1,HashMap<Character,Integer>hm2){

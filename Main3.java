@@ -1,3 +1,9 @@
+// 1. You are given two integer arrays(A and B), where B is an anagram of A.
+// 2. B is an anagram of A means B is made by randomizing the order of the elements in A.
+// 3. For every element in A, you have to print the index of that element in B.
+
+// Note -> Both arrays(A and B) are of the same length
+
 import java.util.*;
 
 public class Main3 {

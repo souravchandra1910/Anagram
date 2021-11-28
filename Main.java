@@ -1,3 +1,5 @@
+// 1. You are given two strings s1 and s2.
+// 2. You have to determine if s2 is an anagram of s1.
 import java.util.*;
 
 public class Main {
